@@ -1,5 +1,13 @@
 # Java Dictionary - Generics Experiment
 
+## Table Of Content
+* [Description](#description)
+* [Generics](#generics)
+    + [Dictionary Class - Using Generics](#dictionary-class---using-generics)
+* [Throwing Custom Exceptions](#throwing-custom-exceptions)
+    + [InvalidKeyException](#invalidkeyexception)
+    + [Throwing InvalidKeyException](#throwing-invalidkeyexception)
+
 ## Description
 
 In this project, I wanted to experiment with 2 things, mainly:
